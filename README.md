@@ -11,9 +11,9 @@
   </a> 
 
 </div>
-  <br />   <br />
+  <br /> 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="20" height="20" /> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="20" height="20" /> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="Azure" width="20" height="20" /> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="20" height="20" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="20" height="20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="30" height="30" /> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" height="30" /> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="Azure" width="30" height="30" /> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="30" height="30" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30" />
 
 
 <!--
