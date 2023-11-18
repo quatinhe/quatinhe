@@ -8,6 +8,8 @@
 
   <a href="https://discord.com/channels/Singh">
     <img src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="50" height="50" />
+    </div>
+<div style="display: flex; justify-content: center; align-items: center;">
   </a> 
     <a href="https://www.linkedin.com/in/andr%C3%A9-singh/">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/745/original/twitter-logo-twitter-icon-transparent-free-free-png.png" alt="Discord" width="50" height="50" />
