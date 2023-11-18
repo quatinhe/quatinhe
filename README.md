@@ -7,13 +7,13 @@
 <div style="display: flex; justify-content: center; align-items: center;"> 
 
   <a href="https://discord.com/channels/Singh">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="100" height="100" />
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="50" height="50" />
   </a> 
 
 </div>
   <br />   <br />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40" /> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="Azure" width="40" height="40" /> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="40" height="40" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="20" height="20" /> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="20" height="20" /> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="Azure" width="20" height="20" /> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="20" height="20" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="20" height="20" />
 
 
 <!--
