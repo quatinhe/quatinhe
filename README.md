@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center;"> 
 
   <a href="https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=966808c6437249d5">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="30" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40" />
     </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   </a> 
