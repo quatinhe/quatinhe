@@ -6,8 +6,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center;"> 
 
-  <a href="https://discord.com/channels/Singh">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="50" height="50" />
+  <a href="[https://discord.com/channels/Singh](https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=740c1c34d9454c88)">
+    <img src="[https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png)" alt="Spotify" width="50" height="50" />
     </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   </a> 
