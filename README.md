@@ -12,7 +12,7 @@
 <!-- <div style="display: flex; justify-content: center; align-items: center;"> -->
   </a> 
     <a href="https://www.linkedin.com/in/andr%C3%A9-singh/">
-    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="Linkedin" width="50" height="50" />
+    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="Linkedin" width="60" height="60" />
   </a> 
 
 </div>
