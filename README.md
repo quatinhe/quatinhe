@@ -10,7 +10,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40" />
   </a> 
     <a href="https://www.linkedin.com/in/andr%C3%A9-singh/">
-    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="Linkedin" width="60" height="60" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" width="60" height="60" />
   </a> 
 
 </div>
