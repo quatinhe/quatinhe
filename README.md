@@ -9,8 +9,9 @@
   <a href="https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=966808c6437249d5">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40" />
   </a> 
-    <a href="https://www.linkedin.com/in/andr%C3%A9-singh/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" width="60" height="60" />
+  <br></br>
+  <a href="https://www.linkedin.com/in/andr%C3%A9-singh/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" width="40" height="40" />
   </a> 
 
 </div>
