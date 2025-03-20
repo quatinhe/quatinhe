@@ -13,6 +13,11 @@
   <a href="https://www.linkedin.com/in/andr%C3%A9-singh">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" width="40" height="40" />
   </a> 
+  <br></br>
+  <a href="https://www.goodreads.com/user/show/183007163-andr-singh">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Goodreads_%27g%27_logo.png" alt="Goodreads" width="40" height="40" />
+</a>
+
 
 </div>
   <br /> 
