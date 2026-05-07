@@ -10,8 +10,8 @@ I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and 
   <a href="https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=966808c6437249d5" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://github.com/quatinhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.goodreads.com/user/show/183007163-andr-singh" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-F4EBE3?style=for-the-badge&logo=goodreads&logoColor=382110" alt="Goodreads">
   </a>
 </p>
 
