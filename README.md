@@ -15,12 +15,13 @@ I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and 
   </a>
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & AI Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="35" height="35" /> &nbsp;
+  <img src="https://cdn.simpleicons.org/unity/000000" alt="Unity" width="35" height="35" />
 </p>
