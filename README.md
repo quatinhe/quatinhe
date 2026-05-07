@@ -1,25 +1,26 @@
-## Hi there 👋 I'm André
+# Hi there 👋, I'm André
 
-  I'm currently taking my Masters in Computer Science & Engineering 🎓 and working as an AI/ML Engineer at Atos 🤖🧠
+I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and working as an **AI/ML Engineer** at Atos 🤖🧠.
 
-  You can find me on:📫
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=966808c6437249d5" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://github.com/quatinhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center;"> 
-
-  <a href="https://open.spotify.com/user/214pt7dmn7csobdwbpmh2gvca?si=966808c6437249d5">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify" width="40" height="40" />
-  </a> 
-  <br></br>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-singh">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" width="40" height="40" />
-  </a> 
-  <br></br>
-  <a href="https://www.goodreads.com/user/show/183007163-andr-singh">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Goodreads_%27g%27_logo.png" alt="Goodreads" width="40" height="40" />
-</a>
-
-
-</div>
-  <br /> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="25" height="25" /> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="25" height="25" /> <img src="https://arunpotti.files.wordpress.com/2021/12/microsoft_azure.svg_.png" alt="Azure" width="25" height="25" /> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="25" height="25" /> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="25" height="25" />
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+</p>
