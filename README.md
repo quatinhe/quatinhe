@@ -17,11 +17,10 @@ I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and 
 
 ### 🛠️ Languages & AI Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="35" height="35" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/unity/000000" alt="Unity" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
 </p>
