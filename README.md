@@ -9,7 +9,7 @@ I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and 
   <a href="https://www.goodreads.com/user/show/183007163-andr-singh" target="_blank"><img src="https://img.shields.io/badge/Goodreads-F4EBE3?style=for-the-badge&logo=goodreads&logoColor=382110" alt="Goodreads"></a>
 </p>
 
-### 🛠️ Languages & AI Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,cpp,aws,azure,gcp,unity" alt="Languages and Tools" />
 </p>
