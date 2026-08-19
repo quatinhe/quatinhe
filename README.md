@@ -1,6 +1,6 @@
 # Hi there 👋, I'm André
 
-I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and working as an **AI/ML Engineer** at Atos 🤖🧠.
+I'm currently taking my **Master's in Computer Science & Engineering** 🎓 and working as an **AI/ML Engineer** at Closer 🤖🧠.
 
 ### 📫 Connect with me
 <p align="left">
